@@ -1,2 +1,4 @@
+from config import *
+
 print("helloworld")
-from config import secret
+print(web3)
